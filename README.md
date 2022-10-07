@@ -1,4 +1,4 @@
-# 🛠 Technolog:
+# 🛠 Technology:
 
 - **ReactJS 18**
 - **TypeScript**
