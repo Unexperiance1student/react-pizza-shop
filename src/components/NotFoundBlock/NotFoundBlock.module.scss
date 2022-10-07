@@ -1,0 +1,22 @@
+.root{
+    padding: 100px;
+    max-width: 750px;
+    text-align:center;
+    margin: 0 auto;
+    span{
+        font-size: 64px;
+    }
+    @media (max-width: 450px) {
+        padding: 100px 30px;
+        span{
+            margin-top: 20px;
+        }
+      }
+}
+
+.descr{
+    font-size: 22px;
+    @media (max-width: 450px) {
+        margin-top: 20px;
+      }
+}
